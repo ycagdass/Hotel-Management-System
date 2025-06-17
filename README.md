@@ -6,6 +6,8 @@ A simple management system application for Hotels and Hostels developed in C#.
 
 This project is a desktop application developed using C# Windows Forms for managing daily operations of hotel businesses. It works integrated with SQL Server database.
 
+**⚠️ Note: This project is currently in alpha stage and under active development.**
+
 ## ✨ Current Features
 
 ### 🔐 Security
@@ -27,7 +29,7 @@ This project is a desktop application developed using C# Windows Forms for manag
 - **Room Selection System:**
   - Visual room buttons for rooms 101-109
   - Interactive room number assignment
-  - Room status indicators (occupied/available - currently shows info messages)
+  - Basic room status buttons (placeholder functionality)
 
 ### 💰 Pricing System
 - **Automatic Price Calculation:**
@@ -35,10 +37,7 @@ This project is a desktop application developed using C# Windows Forms for manag
   - Automatic calculation based on stay duration
   - Real-time price updates when dates change
 
-### 🎨 User Interface
-- **Theme Support:**
-  - Built-in dark/light theme system
-  - Consistent color scheme across forms
+### 🖥️ User Interface
 - **Navigation:**
   - Main dashboard with navigation buttons
   - Form-to-form navigation system
@@ -108,7 +107,6 @@ cagdasotels/
 3. **Customer Management:** View and manage registered customers
 4. **Room Assignment:** Visual room selection (rooms 101-109)
 5. **Date Management:** Automatic stay duration and cost calculation
-6. **Theme System:** Basic dark/light theme support
 
 ## 📋 Application Flow
 
@@ -117,6 +115,10 @@ cagdasotels/
 3. Users can add new customers with room assignments
 4. System automatically calculates costs based on dates
 5. Customer list provides overview of all registrations
+
+## 🚧 Development Status
+
+This is an **alpha version** currently under active development. More features and improvements are being added regularly.
 
 ## 👨‍💻 Developer
 
@@ -128,4 +130,4 @@ This project is developed for educational and commercial use in hotel management
 
 ---
 
-*This README reflects the current implemented features of the Hotel Management System as of the latest commit.*
+*This README reflects the current implemented features of the Hotel Management System as of June 2025.*
