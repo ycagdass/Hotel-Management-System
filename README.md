@@ -123,6 +123,7 @@ This is an **alpha version** currently under active development. More features a
 ## 👨‍💻 Developer
 
 **GitHub:** [@ycagdass](https://github.com/ycagdass)
+**İnstagram:** [@devcagdas](https://www.instagram.com/devcagdas/)
 
 ## 📄 License
 
